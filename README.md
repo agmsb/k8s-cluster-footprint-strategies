@@ -12,7 +12,7 @@ If you run into this, you should isolate these to individual _but standardized a
 
 TODO
 
-## Cluster footprint strategies
+## Kubernetes cluster footprint strategies
 
 Everyone is probably doing multi-cluster, in a form. 
 
