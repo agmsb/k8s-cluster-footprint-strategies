@@ -21,7 +21,7 @@ But here's how I think of the three paths organizations and teams can take with 
 * Fewer, large clusters
 * Many, small to medium clusters
 * Somewhere in between
-    * Fewer, large clusters with special workload-based exceptions for few small to medium clusters
+    * Fewer, large clusters with special workload-based exceptions for specific small to medium clusters
 
 ### Fewer, large clusters
 
