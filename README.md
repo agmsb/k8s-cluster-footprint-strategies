@@ -2,11 +2,11 @@
 
 ## tl;dr
 
-If you meet the organizational requirements for running a shared cluster, you should always start with a shared cluster.
+If you meet the organizational requirements for running a shared cluster, you should start with a shared cluster.
 
 As you onboard workloads into a shared cluster, eventually certain sensitive workloads may call for harder isolation than a shared cluster can provide. 
 
-If you run into this, you should isolate these to individual _but standardized_ clusters. 
+If you run into this, you should isolate these to individual _but standardized and audited_ clusters. 
 
 ## Overview
 
