@@ -1,5 +1,9 @@
 # k8s-cluster-footprint-strategies
 
+## Table of contents
+
+[tl;dr](#tl;dr)
+
 ## tl;dr
 
 If you meet the organizational requirements for running a shared cluster, you should start with a shared cluster.
