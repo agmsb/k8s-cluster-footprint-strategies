@@ -14,14 +14,16 @@ TODO
 
 ## Kubernetes cluster footprint strategies
 
-Everyone is probably doing multi-cluster, in a form. 
+Everyone is probably doing multi-cluster, in a form. Even the staunch single cluster model advocates probably have a separate staging cluster. 
 
-But here's how I think of the three paths organizations and teams can take with regard to multi-cluster:
+With that said, here's how I think of the three paths organizations and teams can take around a multi-cluster strategy:
 
 * Fewer, large clusters
+    * Centralized team owns fewer, large multi-tenant clusters, exposing to service owners via automation
 * Many, small to medium clusters
+    * Service teams own their own individual clusters, with a centralized team owning cluster templates, guardrails, and provisioning 
 * Somewhere in between
-    * Fewer, large clusters with special workload-based exceptions for specific small to medium clusters
+    * Centralized teams own fewer, large clusters and special workload-based exception clusters that can be small to medium in size
 
 ### Fewer, large clusters
 
