@@ -3,6 +3,11 @@
 ## Table of contents
 
 [tl;dr](#tl;dr)
+[Overview](#Overview)
+[Kubernetes cluster footprint strategies](#Kubernetes cluster footprint strategies)
+* [Fewer, large clusters](#Fewer, large clusters)
+* [Many, small to medium clsuters](#Many, small to medium clusters)
+* [Somewhere in between](#Somewhere in between)
 
 ## tl;dr
 
